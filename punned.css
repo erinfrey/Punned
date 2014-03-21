@@ -30,9 +30,12 @@ div {
 	border-color: black;
 	font-family:Arial;
 	margin: 10px;
-	padding: 5px;
-	height: 5%;
-	width: 50%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	padding-right: 10px;
+	height: 50;
+	width: 400px;
 	text-align: center;
 }
 
@@ -41,4 +44,9 @@ blockquote {
 	font-size:10px;
 	color:teal;
 	text-align:center;
+}
+
+input {
+	height: 100%;
+	width: 100%;
 }
