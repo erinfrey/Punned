@@ -1,0 +1,44 @@
+p {
+	font-family:Arial, serif;
+	font-size:12px;
+}
+
+h1 {
+	font-family:Arial, serif;
+	font-size:24px;
+	font-weight:bold;
+}
+
+a {
+	text-decoration:none;
+	color:teal;
+	font-family:Arial, serif;
+}
+
+ul {
+	font-family:Arial, serif;
+	font-size:12px;
+}
+
+li {
+	font-family:Arial, serif;
+	font-size:12px;
+}
+
+div {
+	border: 3px solid;
+	border-color: black;
+	font-family:Arial;
+	margin: 10px;
+	padding: 5px;
+	height: 5%;
+	width: 50%;
+	text-align: center;
+}
+
+blockquote {
+	font-family:cursive;
+	font-size:10px;
+	color:teal;
+	text-align:center;
+}
